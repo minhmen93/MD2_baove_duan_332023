@@ -1,0 +1,16 @@
+{
+  "name": "mock-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server db.json --port 8000 -m ./node_modules/json-server-auth",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.2",
+    "json-server-auth": "^2.1.0"
+  }
+}

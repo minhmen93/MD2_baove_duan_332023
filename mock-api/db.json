@@ -1,0 +1,114 @@
+{
+  "products": [
+    {
+      "name": "ĐẦM NHUNG ",
+      "price": "100",
+      "image": "https://firebasestorage.googleapis.com/v0/b/module2-img.appspot.com/o/images%2F6ce35bd3717c69fcff16c9e659077381.jpg?alt=media&token=7753dcb6-6528-48ce-999a-def91575c730",
+      "id": 21
+    },
+    {
+      "name": "ĐẦM LỤA XẾP NHẤN EO LỆCH",
+      "price": "150",
+      "image": "https://firebasestorage.googleapis.com/v0/b/module2-img.appspot.com/o/images%2Fec6702189b87cd2258341bd498f5c55f.jpg?alt=media&token=545aa793-2cd1-4bd4-aa28-862758bfdcc6",
+      "id": 23
+    },
+    {
+      "name": "CHÂN VÁY TWEED DÁNG BÚT CHÌ",
+      "price": "200",
+      "image": "https://firebasestorage.googleapis.com/v0/b/module2-img.appspot.com/o/images%2F13175edb8678cd0fbe3a198cba56e5b0.jpg?alt=media&token=c0c96c91-f08f-404e-be97-2e7b0e0a9dc6",
+      "id": 24
+    },
+    {
+      "name": "ĐẦM LỤA XẾP LY XÒE",
+      "price": "200",
+      "image": "https://firebasestorage.googleapis.com/v0/b/module2-img.appspot.com/o/images%2F9f272ae3ed5b701cef3826b17993d612.jpg?alt=media&token=3b44827c-ec4d-4c22-bda5-9fa2a3284beb",
+      "id": 25
+    },
+    {
+      "name": "ĐẦM VOAN XẾP TẦNG",
+      "price": "345",
+      "image": "https://firebasestorage.googleapis.com/v0/b/module2-img.appspot.com/o/images%2F6d315de66283887e7d3c22dd981808b6.jpg?alt=media&token=a608e428-bc6a-429e-94bf-9059d4b008f5",
+      "id": 27
+    }
+  ],
+  "users": [
+    {
+      "email": "Khanhtrang.tqc@gmail.com",
+      "password": "$2a$10$SPgsZ.BblqKum5yWvjd7p./727c5ljt6Is60at5fbgEK03/t3ZlNu",
+      "name": "Khánh Trang",
+      "fullname": "Khánh Trang",
+      "id": 1
+    },
+    {
+      "email": "Khanhtranfsg.tqc@gmail.com",
+      "password": "$2a$10$7TRsc64l06SubG5yyhJKuOKUcyuRE9DcMbH3kEqqaItYArhQm.Kge",
+      "name": "Khánh Trang",
+      "fullname": "Khánh Trang",
+      "id": 2
+    },
+    {
+      "email": "minhmen@gmail.com",
+      "password": "$2a$10$Cs7vSgNU.TUy5fbl1jHWW.pEl6A2E6AZDXOcaKs4IDKZhNiTY/xcm",
+      "fullname": "Minh Mến",
+      "rePassword": "123456",
+      "id": 3
+    },
+    {
+      "email": "minhmens@gmail.com",
+      "password": "$2a$10$t/b8vwunfGWfsR28fPYymumT8Lhmx6U3GTxzGUaZ4su.QCVazwAYS",
+      "fullname": "Minh Mến",
+      "rePassword": "123456",
+      "id": 4
+    },
+    {
+      "email": "minhmen43@gmail.com",
+      "password": "$2a$10$1PR.HOP.mf1.m1Wn27jylegjPrsoKBRoRVKTymcLBRFd0YTCuectO",
+      "fullname": "Minh Mến",
+      "rePassword": "123456",
+      "id": 5
+    },
+    {
+      "email": "kta_07n2@yahoo.com",
+      "password": "$2a$10$8s89hVPKWCSQ4i9nbehZqOkKDHxEoWFkbFym14E305irYkLf.bkQG",
+      "fullname": "Minh Mến",
+      "rePassword": "123456",
+      "id": 6
+    },
+    {
+      "email": "minhmen45@gmail.com",
+      "password": "$2a$10$3gUPtIT3yjqIE/O3DumPN.VNcgBMRG6lx0SUifyvF.CslONPI.p1i",
+      "fullname": "Linh Nhi",
+      "rePassword": "123456",
+      "id": 7
+    },
+    {
+      "email": "minhmen87878@gmail.com",
+      "password": "$2a$10$HmiMmBv8Kw4I17wyDI3v7O2EpgXUimAlaBi2vjLv5AIwF3TjpX/pG",
+      "fullname": "sadada",
+      "rePassword": "123456",
+      "id": 8
+    },
+    {
+      "email": "minhmen.jp@gmail.com",
+      "password": "$2a$10$ma9Jnv4cdYMIyfqV41LEl.qJs9du4hyuG23NVrdu63jyk4I3Qi8iG",
+      "name": "Minh Mến",
+      "fullname": "Minh Mến",
+      "permission": 1,
+      "id": 9
+    },
+    {
+      "email": "men@gmail.com",
+      "password": "$2a$10$nSyF6WLHf3NdCbI8eDMSFuBoD7BJE/JaxO/VcV4Ug4jXgz3AVIVXW",
+      "fullname": "Minh Mến",
+      "rePassword": "123456",
+      "id": 10
+    },
+    {
+      "email": "minhmen12345@gmail.com",
+      "password": "$2a$10$cczqGvZYrXJdZnmLeaxJvOHzpBassvgTpwC1bWi/Q4GA1BAan/qda",
+      "fullname": "Minh Mến",
+      "rePassword": "123456",
+      "id": 11
+    }
+  ]
+}
